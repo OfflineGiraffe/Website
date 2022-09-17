@@ -1,0 +1,13 @@
+#main-header{
+    text-align:center;
+    background-color:black;
+    color: antiquewhite;
+    padding:10px;
+}
+
+body{
+    background-color:#f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+
+    line-height: 1.6em;
+}
